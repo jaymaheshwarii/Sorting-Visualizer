@@ -1,2 +1,11 @@
-# Sorting-Visualizer
-This is a Visualization Project made using JavaScript.
+# Sorting Visualization
+### This is a simple visualization project made using javascript 
+- Bubble Sort 
+- Selection Sort
+- Insertion Sort
+- Quick Sort
+- Merge Sort
+
+### This is built using HTML, CSS, JavaScript <br/>
+
+[Check out the website here](https://jaymaheshwarii.github.io/Sorting-Visualizer/)
