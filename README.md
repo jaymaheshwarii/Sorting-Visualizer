@@ -9,3 +9,7 @@
 ### This is built using HTML, CSS, JavaScript <br/>
 
 [Check out the website here](https://jaymaheshwarii.github.io/Sorting-Visualizer/)
+
+<img src="images/img1.png"> <br/>
+<img src="images/img2.png"> <br/>
+<img src="images/img3.png"> <br/>
